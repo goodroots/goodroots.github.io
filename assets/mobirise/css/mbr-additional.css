@@ -37,7 +37,7 @@
 #header4-1 B {
   color: #ffffff;
   text-align: left;
-  font-size: 60px;
+  font-size: 48px;
 }
 #header4-1 P {
   color: #ffffff;
@@ -46,10 +46,10 @@
 }
 #content5-b P {
   font-size: 21px;
+  color: #ffffff;
 }
-#msg-box2-d H2 {
-  text-align: center;
-  color: #000000;
+#content5-b .mbr-section-title {
+  color: #ffffff;
 }
 #slider-c H2 {
   color: #ffffff;
@@ -57,4 +57,5 @@
 }
 #slider-c SPAN {
   text-align: center;
+  font-size: 46px;
 }
