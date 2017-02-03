@@ -53,9 +53,12 @@
 }
 #slider-c H2 {
   color: #ffffff;
-  text-align: left;
+  text-align: right;
 }
 #slider-c SPAN {
-  text-align: center;
-  font-size: 46px;
+  text-align: left;
+  font-size: 48px;
+}
+#slider-c P {
+  text-align: right;
 }

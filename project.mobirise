@@ -212,11 +212,14 @@
           "_styles": {
             "H2": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "right"
             },
             "SPAN": {
-              "text-align": "center",
-              "font-size": "46px"
+              "text-align": "left",
+              "font-size": "48px"
+            },
+            "P": {
+              "text-align": "right"
             }
           },
           "_params": {
@@ -225,11 +228,11 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/20170201-6-2000x1125.jpg",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<br><br><br><br>Cabbage",
+                "title": "<br><br><br><span style=\"font-size: 4.3rem; line-height: 1.1; text-align: left;\">Early dutch cabbage</span><br>",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -240,7 +243,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-1-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<p><span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span></p><br><p><span style=\"font-size: 4.3rem; line-height: 1.1;\">Brown lettuce</span></p>",
+                "title": "<p><span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span></p><br><p><span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span></p><p><span style=\"font-size: 4.3rem; line-height: 1.1;\">Bronze arrow lettuce</span></p>",
                 "showText": false,
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "showButtons": false,
@@ -251,7 +254,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-4-2000x1125.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br>Cabbage",
+                "title": "<br><br>Napa cabbage",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -262,7 +265,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-7-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<br>Brassica juncea",
+                "title": "<br><br>Brassica juncea",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -273,7 +276,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-8-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<p><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><br><p>Purple swiss chard &nbsp;&nbsp;</p>",
+                "title": "<p><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; Ruby red<span style=\"font-size: 4.3rem; line-height: 1.1; text-align: left;\">&nbsp;chard &nbsp;&nbsp;</span></p>",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -284,7 +287,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-9-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.3rem; line-height: 1.1;\">Yellow chard</span><br>",
+                "title": "<span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.3rem; line-height: 1.1;\">Yellow chard</span><br>",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -295,7 +298,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-10-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><span style=\"font-size: 4.3rem; line-height: 1.1;\">Purple bulb</span><br>",
+                "title": "<span style=\"font-size: 4.3rem; line-height: 1.1;\"><br><div style=\"text-align: center;\"><span style=\"line-height: 1.1;\">Purple Kohlrabi</span><br></div></span>",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -306,7 +309,7 @@
                 "image": "@PROJECT_PATH@/assets/images/20170201-3-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "<span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><span style=\"font-size: 4.3rem; line-height: 1.1;\">Chinese celery</span><br>",
+                "title": "<span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><span style=\"font-size: 4.3rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.3rem; line-height: 1.1;\">Chinese celery</span><br>",
                 "showText": false,
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "showButtons": false,
@@ -368,7 +371,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/20170201-17-2000x1125.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
