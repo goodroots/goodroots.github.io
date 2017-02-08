@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Good Roots Organic Farm</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.tk\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goodroots.tk\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.drbavolunteers.org/index.htm\" target=\"_blank\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goodroots.github.io/\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.drbavolunteers.org/index.htm\" target=\"_blank\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
         },
         {
           "_tags": [
@@ -213,7 +213,7 @@
           },
           "title": "Our Organic Farming Philosophy",
           "text": "Our philosophy is to work in harmony with all that nature provides. We focus on having rich and well-structured soil that provides all the necessary nutrients to the plants. The vegetables from the garden grow healthy and vibrant without the need for pesticides or herbicides. This also minimizes water use and keeps the land rich and fertile for future generations ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"goodroots.tk\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://goodroots.github.io/\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
             "H3": {
               "font-size": "30px"
@@ -700,36 +700,44 @@
                   "linkInNewWindow": false
                 }
               },
-              "authorName": "Maureen S.",
+              "authorName": "Ashley",
               "authorBio": "Volunteer"
             },
             {
               "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/maureen-160x158.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Ashley T.",
+              "authorName": "Maureen",
               "authorBio": "Resident"
             },
             {
               "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/feddie-157x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "David N.",
-              "authorBio": "DRBU Student"
+              "authorName": "Feddie",
+              "authorBio": "Student"
             }
           ],
           "_anchor": "testimonials1-6",
@@ -922,7 +930,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Good Roots Organic Farm</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.tk\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goodroots.tk\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.drbavolunteers.org/index.htm\" target=\"_blank\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goodroots.github.io/\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.drbavolunteers.org/index.htm\" target=\"_blank\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
         },
         {
           "_styles": {
