@@ -22,7 +22,10 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 48,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -122,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Good Roots Organic Farm</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"volunteer.html\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goodroots.github.io/\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"volunteer.html\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
         },
         {
           "_tags": [
@@ -143,16 +146,16 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1015064-2000x1126.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20170201-5-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.1",
-            "overlayColor": "#000000",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -174,7 +177,7 @@
           },
           "_anchor": "msg-box5-2",
           "_params": {
-            "imageSize": "54",
+            "imageSize": "66",
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
@@ -198,7 +201,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/p1015164-1400x788.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cv8c5515-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -934,7 +937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Good Roots Organic Farm</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"volunteer.html\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://goodroots.github.io/\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://goodroots.github.io/\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"volunteer.html\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
         },
         {
           "_styles": {
@@ -1376,14 +1379,14 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cv8c57631-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cv8c5763(1)-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.2",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br>Come Grow With Us!",
+                "title": "<br>Come Grow with us!",
                 "showText": true,
                 "text": "We’ll provide tools and equipment; just bring a hat, gloves and drinks. No experience necessary.",
                 "showButtons": false,
@@ -1392,20 +1395,6 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dscn9409-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/organic-farm-26-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1447,7 +1436,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cv8c5515-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cv8c5690-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1475,7 +1464,21 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cv8c5690-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/organic%20farm%20(5)-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/organic%20farm%20(14)-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1489,63 +1492,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/p1015161-2000x1126.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/organic-farm-5-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/organic-farm-14-2000x1125.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cv8c5479-2000x1167.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1573,10 +1520,7 @@
           "_styles": {
             "H3": {
               "font-size": "30px",
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-10",
@@ -1605,7 +1549,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/salad-2-1400x881.jpg",
+              "src": "@PROJECT_PATH@/assets/images/salad%202-1400x881.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1624,7 +1568,7 @@
             }
           },
           "title": "Join us for a vegetarian lunch",
-          "text": "After a wonderful morning working on the farm, you are invited to join us for a vegetarian lunch and enjoy the fresh harvest straight from the farm.",
+          "text": "After a wonderful morning working on the farm, you are invited to join us for a vegetarian lunch to enjoy the fresh harvest straight from the farm.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"volunteer.html#slider-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1686,10 +1630,9 @@
               "name": "question",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "volunteer.html",
+              "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fac51c",
-              "newWindow": false
+              "color": "#fac51c"
             }
           },
           "title1": "Inquire",
@@ -1703,9 +1646,8 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "title2": "Learn",
@@ -1719,9 +1661,8 @@
               "name": "setting",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "title3": "Create",
@@ -1735,9 +1676,8 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "title4": "Meet",
@@ -1751,9 +1691,8 @@
               "name": "apple",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "volunteer.html",
-              "size": 0,
-              "newWindow": false
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
           "title5": "Meal",

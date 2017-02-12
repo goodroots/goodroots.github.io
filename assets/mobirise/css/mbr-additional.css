@@ -731,7 +731,10 @@ h6,
 }
 #msg-box5-10 H3 {
   font-size: 30px;
-  color: #ffffff;
+  color: #000000;
+}
+#msg-box5-10 P {
+  color: #000000;
 }
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {
