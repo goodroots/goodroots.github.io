@@ -633,3 +633,125 @@ h6,
   color: #7c7c7c;
   font-family: 'Ubuntu', sans-serif;
 }
+
+
+
+
+
+
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-11 H3 {
+  color: #ffffff;
+}
+#header3-11 SMALL {
+  color: #ffffff;
+}
+#menu-y .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-y .navbar-caption {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+}
+#menu-y .navbar-toggler {
+  color: #90a878;
+}
+#menu-y .close-icon::before,
+#menu-y .close-icon::after {
+  background-color: #90a878;
+}
+#menu-y .link,
+#menu-y .dropdown-item {
+  color: #90a878;
+}
+#menu-y .link {
+  font-size: 0.75rem;
+}
+#menu-y .dropdown-item,
+#menu-y .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-y .link:hover,
+#menu-y .dropdown-item:hover,
+#menu-y .link:focus,
+#menu-y .dropdown-item:focus {
+  color: #90a878;
+}
+#menu-y .link[aria-expanded="true"],
+#menu-y .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-y .nav-dropdown-sm .link:focus,
+#menu-y .nav-dropdown-sm .link:hover,
+#menu-y .nav-dropdown-sm .dropdown-item:focus,
+#menu-y .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-y .navbar,
+#menu-y .nav-dropdown-sm,
+#menu-y .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-y .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-y .bg-color.transparent .link {
+  color: #90a878;
+  transition: none;
+}
+#menu-y .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-y .bg-color.transparent.opened .link:hover,
+#menu-y .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#menu-y .link[aria-expanded="true"],
+#menu-y .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#header1-z .mbr-section-title {
+  font-size: 48px;
+}
+#header1-z .btn {
+  font-family: 'Merriweather', serif;
+}
+#msg-box3-17 .mbr-section-title,
+#msg-box3-17 p {
+  color: #000;
+}
+#msg-box3-17 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-17 .lead P {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box5-10 H3 {
+  font-size: 30px;
+  color: #ffffff;
+}
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 H3 {
+  color: #f3c649;
+}
+#contacts2-15 STRONG {
+  color: #7c7c7c;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-15 P {
+  color: #7c7c7c;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-15 UL {
+  font-family: 'Ubuntu', sans-serif;
+}
+#footer1-16 P {
+  color: #7c7c7c;
+  font-family: 'Ubuntu', sans-serif;
+}
