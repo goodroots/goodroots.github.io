@@ -758,3 +758,113 @@ h6,
   color: #7c7c7c;
   font-family: 'Ubuntu', sans-serif;
 }
+
+
+
+
+
+
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1f H3 {
+  color: #ffffff;
+}
+#header3-1f SMALL {
+  color: #ffffff;
+}
+#menu-1c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1c .navbar-caption {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+  font-size: 30px;
+}
+#menu-1c .navbar-toggler {
+  color: #90a878;
+}
+#menu-1c .close-icon::before,
+#menu-1c .close-icon::after {
+  background-color: #90a878;
+}
+#menu-1c .link,
+#menu-1c .dropdown-item {
+  color: #90a878;
+}
+#menu-1c .link {
+  font-size: 0.75rem;
+}
+#menu-1c .dropdown-item,
+#menu-1c .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-1c .link:hover,
+#menu-1c .dropdown-item:hover,
+#menu-1c .link:focus,
+#menu-1c .dropdown-item:focus {
+  color: #90a878;
+}
+#menu-1c .link[aria-expanded="true"],
+#menu-1c .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-1c .nav-dropdown-sm .link:focus,
+#menu-1c .nav-dropdown-sm .link:hover,
+#menu-1c .nav-dropdown-sm .dropdown-item:focus,
+#menu-1c .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-1c .navbar,
+#menu-1c .nav-dropdown-sm,
+#menu-1c .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1c .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-1c .bg-color.transparent .link {
+  color: #90a878;
+  transition: none;
+}
+#menu-1c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1c .bg-color.transparent.opened .link:hover,
+#menu-1c .bg-color.transparent.opened .link:focus {
+  color: #90a878;
+}
+#menu-1c .link[aria-expanded="true"],
+#menu-1c .dropdown-item[aria-expanded="true"] {
+  color: #90a878!important;
+}
+#header1-1d .mbr-section-title {
+  font-size: 48px;
+}
+#header1-1d .btn {
+  font-family: 'Merriweather', serif;
+}
+#header1-1d .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#header3-1m .mbr-section-title,
+#header3-1m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1m H3 {
+  color: #90a878;
+}
+#contacts2-1j STRONG {
+  color: #7c7c7c;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-1j P {
+  color: #7c7c7c;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts2-1j UL {
+  font-family: 'Ubuntu', sans-serif;
+}
+#footer1-1k P {
+  color: #7c7c7c;
+  font-family: 'Ubuntu', sans-serif;
+}
