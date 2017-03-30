@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Good Roots Organic Farm",
-    "currentPage": "farm.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -906,7 +906,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-b",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": 0.75,
@@ -937,7 +937,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Good Roots Organic Farm</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">WHAT WE GROW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Flowers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Fruits</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Vegetables</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Napa cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Early dutch cabbage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kohlrabi</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Bronze arrow lettuce</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chard</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese celery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Kale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chinese mustard</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Permaculture</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"volunteer.html\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Monastery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Farming Technique</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Wildlife</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"farm.html\" aria-expanded=\"false\">OUR FARM</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"volunteer.html\">VOLUNTEER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-3\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">More Info</a></li>"
         },
         {
           "_styles": {
